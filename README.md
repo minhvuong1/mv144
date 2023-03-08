@@ -1,3 +1,5 @@
+<img src="https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233" alt="banner" />
+
 <h1 align="center">Hi 👋, I'm Minh Vuong</h1>
 <h3 align="center">A passionate fullstack developer from Australia</h3>
 
