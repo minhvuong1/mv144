@@ -3,6 +3,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Minh Vuong</h1> -->
 <h3 align="center">A passionate fullstack developer from Australia</h3>
 
+<h3></h3>
+
 - 🔭 I’m currently working on **an iOS App**
 
 - 👨‍💻 All of my projects are available at [minhvuong.surge.sh](minhvuong.surge.sh)
