@@ -1,6 +1,6 @@
 <img src="./github-header-image.png" alt="banner" />
 
-<h1 align="center">Hi 👋, I'm Minh Vuong</h1>
+<!-- <h1 align="center">Hi 👋, I'm Minh Vuong</h1> -->
 <h3 align="center">A passionate fullstack developer from Australia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mv144" alt="mv144" /></a> </p>
