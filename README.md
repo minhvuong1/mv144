@@ -1,4 +1,4 @@
-<img src="./github-header-image-new.png" alt="banner" />
+<img src="./header-image.png" alt="banner" />
 
 <!-- <h1 align="center">Hi 👋, I'm Minh Vuong</h1> -->
 <h3 align="center">A passionate fullstack developer from Australia</h3>
