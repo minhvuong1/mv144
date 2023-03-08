@@ -2,7 +2,6 @@
 
 <!-- <h1 align="center">Hi 👋, I'm Minh Vuong</h1> -->
 <h3 align="center">A passionate fullstack developer from Australia</h3>
-&nbsp;
 
 - 🔭 I’m currently working on **an iOS App**
 
