@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **an iOS App**
 
+- 👨‍💻 All of my projects are available at [minhvuong.surge.sh](minhvuong.surge.sh)
+
 - 💬 Ask me about **Javascript or Python**
 
 - 📫 How to reach me **mhvuong7@gmail.com**
