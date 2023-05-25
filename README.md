@@ -1,7 +1,7 @@
 <img src="./github-header-image-2.png" alt="banner" />
 
 <!-- <h1 align="center">Hi 👋, I'm Minh Vuong</h1> -->
-<h3 align="center">A passionate fullstack developer from Melbourne, Australia</h3>
+<h3 align="center">A passionate fullstack developer from Melbourne, Australia </h3>
 
 <h3></h3>
 
