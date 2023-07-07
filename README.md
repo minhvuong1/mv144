@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **mhvuong7@gmail.com**
 
-- ⚡ Fun fact **I started coding at 15**
-
 <h3></h3>
 
 <h3 align="left">Connect with me:</h3>
